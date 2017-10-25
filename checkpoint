@@ -1,2 +1,2 @@
-model_checkpoint_path: "traffic"
-all_model_checkpoint_paths: "traffic"
+model_checkpoint_path: "models"
+all_model_checkpoint_paths: "models"
